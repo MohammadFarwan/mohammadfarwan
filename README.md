@@ -20,11 +20,12 @@ I'm Mohammad Farwan, a passionate frontend developer with a love for crafting en
 ### Projects:
 
 - Graduate Project: Student Tracking System: [project repo](https://github.com/orgs/UN-Org-Project/repositories)
-  -- Designed and developed a comprehensive Student Behavior Evaluation System as a front-end developer.
-  -- Collaborated with a team to implement absence tracking, attendance recording, note sharing, real-time chatting, and student performance assessment functionalities.
-  -- Utilized technologies including HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB for robust and dynamic features.
-  -- Demonstrated version control proficiency using Git and managed project repository on
-GitHub
+  <ul>
+    <li>Designed and developed a comprehensive Student Behavior Evaluation System as a front-end developer.</li>
+    <li>Collaborated with a team to implement absence tracking, attendance recording, note sharing, real-time chatting, and student performance assessment functionalities.</li>
+    <li>Utilized technologies including HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB for robust and dynamic features.</li>
+    <li>Demonstrated version control proficiency using Git and managed project repository on GitHub</li>
+  </ul>
 
 ### Let's Connect:
 
