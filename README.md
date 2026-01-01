@@ -28,4 +28,4 @@ I'm Mohammad Farwan, a passionate full-stack web developer with a love for craft
 - 📫 Feel free to reach out to me at <a href="mailto:mohammad2w01@gmail.com" style="text-decoration:none;">mohammad2w01@gmail.com</a>.
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/mohammad-farwan" style="text-decoration:none;">LinkedIn</a>.
 
-Thanks for stopping by! Let's build something amazing together. 😊
+Thanks for stopping by! Let's build something amazing together.  😊
